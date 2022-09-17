@@ -3,9 +3,13 @@
 Proyecto de TinkerCad: https://www.tinkercad.com/things/cczK58MVRET-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-frantic-wolt/editel?sharecode=iuyCxvV8FQ4T8qYw6L6h2xASbr3ZbjiYV8t3wDN-nNw
 
 Integrantes del proyecto:
+
 Ricardo Bartoncello
+
 Brian Morales
+
 Gonzalo de Salvo
+
 Jose Luis Churruarin
 
 Idea:
